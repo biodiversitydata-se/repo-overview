@@ -13,25 +13,31 @@ Free tool for phyto- and zooplankton.
 
 ## Repos by theme 
 Internal and external SBDI repos can be loosely grouped into the following, non-mutually exclusive categories:
+* [ALA forks](#ala-forks)
+* [Courses and workshops](#courses)
 * [Marine data](#marine)
+* [Molecular data](#molecular)
+* [R](#r)
+* [Support](#support)
+* * *
+  
+### <a name="ala-forks"></a>ALA forks
 
-### ALA forks
-
-### Courses and workshops
+### <a name="courses"></a>Courses and workshops
 
 ### <a name="marine"></a>Marine data
 * [plankton-toolbox](https://github.com/planktontoolbox/plankton-toolbox) -
 Free tool for phyto- and zooplankton.
 
-### Molecular data
+### <a name="molecular"></a>Molecular data
 * [nf-core/ampliseq](https://github.com/nf-core/ampliseq) -
 16S rRNA amplicon sequencing analysis workflow using QIIME2.
 
 * [mol-data](https://github.com/biodiversitydata-se/mol-data) -
 Source files for GitHub Pages on molecular data services provided by SBDI.
 
-### R
+### <a name="r"></a>R
 
-### Support
+### <a name="support"></a>Support
 
 
