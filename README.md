@@ -1,6 +1,6 @@
 # SBDI repo overview
 
-The [Swedish Biodiversity Data Infrastructure (SBDI)](https://biodiversitydata.se/) is developed in collaboration with the [Living Atlas Community](https://living-atlases.gbif.org/), and aims to make Swedish biodiversity data accessible for innovative and interdisciplinary research on biodiversity and ecosystems. Formally launching in 2021, SBDI is a collaboration between eleven consortium partners, and will aggregate a variety of tools and open-source software projects. Although most of these will be developed or forked under [biodiversitydata-se](https://github.com/biodiversitydata-se/), some will be hosted by partner organizations or external collaborators. We list these external repos, and also group (internal or external) repos according to a few SBDI themes, below.
+The [Swedish Biodiversity Data Infrastructure (SBDI)](https://biodiversitydata.se/) is developed in collaboration with the [Living Atlas Community](https://living-atlases.gbif.org/), and aims to make Swedish biodiversity data accessible for innovative and interdisciplinary research on biodiversity and ecosystems. Formally launching in 2021, SBDI is a collaboration between eleven consortium partners, and will aggregate a variety of tools and open-source software projects. Although most of these will be developed or forked under [biodiversitydata-se](https://github.com/biodiversitydata-se/), some will be hosted by partner organizations or external collaborators. As an overview of all SBDI-related resources, we list these external repos, and group (internal or external) repos according to a few SBDI themes, below.
 
 ## Repos hosted elsewhere
 The following repos are hosted by SBDI consortium partners or external collaborators.
@@ -12,11 +12,11 @@ The following repos are hosted by SBDI consortium partners or external collabora
 Free tool for phyto- and zooplankton.
 
 ## Repos by theme 
-Internal and external SBDI repos can be loosely grouped in accordance with the following, non-mutually exclusive categories:
+Internal and external SBDI repos can be loosely grouped into the following, non-mutually exclusive categories:
 
 ### ALA forks
 
-### Courses
+### Courses and workshops
 
 ### Marine data
 * [plankton-toolbox](https://github.com/planktontoolbox/plankton-toolbox)
