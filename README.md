@@ -13,12 +13,13 @@ Free tool for phyto- and zooplankton.
 
 ## Repos by theme 
 Internal and external SBDI repos can be loosely grouped into the following, non-mutually exclusive categories:
+* [Marine](#marine)
 
 ### ALA forks
 
 ### Courses and workshops
 
-### Marine data
+<a name="marine"></a>### Marine data
 * [plankton-toolbox](https://github.com/planktontoolbox/plankton-toolbox) -
 Free tool for phyto- and zooplankton.
 
