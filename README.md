@@ -6,7 +6,7 @@ The [Swedish Biodiversity Data Infrastructure (SBDI)](https://biodiversitydata.s
 The following repos are hosted by SBDI consortium partners or external collaborators.
 
 * [nf-core/ampliseq](https://github.com/nf-core/ampliseq)
-16S rRNA amplicon sequencing analysis workflow using QIIME2
+16S rRNA amplicon sequencing analysis workflow using QIIME2.
 
 * [plankton-toolbox](https://github.com/planktontoolbox/plankton-toolbox)
 Free tool for phyto- and zooplankton.
@@ -26,6 +26,8 @@ Free tool for phyto- and zooplankton.
 * [nf-core/ampliseq](https://github.com/nf-core/ampliseq)
 16S rRNA amplicon sequencing analysis workflow using QIIME2
 
+* [mol-data](https://github.com/biodiversitydata-se/mol-data)
+Source files for GitHub Pages on molecular data services provided by SBDI
 
 ### R
 
