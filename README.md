@@ -22,6 +22,7 @@ Free tool for phyto- and zooplankton.
 
 ### Molecular data
 * [nf-core/ampliseq](https://github.com/nf-core/ampliseq)
+16S rRNA amplicon sequencing analysis workflow using QIIME2
 
 
 ### R
