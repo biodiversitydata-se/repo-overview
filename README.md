@@ -11,7 +11,7 @@ The following repos are hosted by SBDI consortium partners or external collabora
 * [plankton-toolbox](https://github.com/planktontoolbox/plankton-toolbox) -
 Free tool for phyto- and zooplankton.
 
-## Repos by theme 
+## Repos grouped by theme 
 Internal and external SBDI repos can be loosely grouped into the following, non-mutually exclusive categories:
 * [ALA forks](#ala-forks)
 * [Courses and workshops](#courses)
