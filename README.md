@@ -19,7 +19,7 @@ Internal and external SBDI repos can be loosely grouped into the following, non-
 * [Molecular data](#molecular)
 * [R](#r)
 * [Support](#support)
-* * *
+
   
 ### <a name="ala-forks"></a>ALA forks
 
