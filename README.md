@@ -14,16 +14,18 @@ Free tool for phyto- and zooplankton.
 ## Repos grouped by theme 
 Internal and external SBDI repos can be loosely grouped into the following, non-mutually exclusive categories:
 * [ALA forks](#ala-forks)
+* [Archeological data](#archeological)
 * [Courses and workshops](#courses)
 * [Marine data](#marine)
 * [Molecular data](#molecular)
 * [R](#r)
+* [SBDI information and discussion](#sbdi-info")
 * [Support](#support)
 
   
 ### <a name="ala-forks"></a>ALA forks
 
-### <a name="SBDI info"></a>SBDI information and discussion
+### <a name="archeological"></a>Archeological data
 
 ### <a name="courses"></a>Courses and workshops
 
@@ -38,15 +40,16 @@ Free tool for phyto- and zooplankton.
 * [mol-data](https://github.com/biodiversitydata-se/mol-data) -
 Source files for GitHub Pages on molecular data services provided by SBDI.
 
-### <a name="systematic"></a>Systematic inventory data
-
-### <a name="archeological"></a>Archeological data
+### <a name="sbdi-info"></a>SBDI information and discussion
 
 ### <a name="r"></a>R
+
 * SBDI4R - 
 R package to access and use Swedish biodivesrity data
 
 * other R resources - Mirroreum, ...
+
+### <a name="systematic"></a>Systematic inventory data
 
 ### <a name="support"></a>Support
 
