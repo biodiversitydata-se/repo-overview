@@ -19,7 +19,7 @@ Internal and external SBDI repos can be loosely grouped into the following, non-
 * [Marine data](#marine)
 * [Molecular data](#molecular)
 * [R](#r)
-* [SBDI information and discussion](#sbdi-info")
+* [SBDI information and discussion](#sbdi-info)
 * [Support](#support)
 
   
