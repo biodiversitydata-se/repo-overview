@@ -34,11 +34,14 @@ Internal and external SBDI repos can be loosely grouped into the following, non-
 Free tool for phyto- and zooplankton.
 
 ### <a name="molecular"></a>Molecular data
-* [nf-core/ampliseq](https://github.com/nf-core/ampliseq) -
-16S rRNA amplicon sequencing analysis workflow using QIIME2.
-
 * [mol-data](https://github.com/biodiversitydata-se/mol-data) -
 Source files for GitHub Pages on molecular data services provided by SBDI.
+
+* [mol-mod](https://github.com/biodiversitydata-se/mol-mod) -
+TEST module for handling sequence-based occurrence data in SBDI.
+
+* [nf-core/ampliseq](https://github.com/nf-core/ampliseq) -
+16S rRNA amplicon sequencing analysis workflow using QIIME2.
 
 ### <a name="sbdi-info"></a>SBDI information and discussion
 
