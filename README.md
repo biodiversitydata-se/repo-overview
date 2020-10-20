@@ -20,15 +20,14 @@ Internal and external SBDI repos can be loosely grouped into the following, non-
 * [R](#r)
 * [SBDI information and discussion](#sbdi-info)
 * [Support](#support)
+* [Systematic monitoring at LU](#systematic)
 
   
 ### <a name="ala-forks"></a>ALA forks
-
-Tools for managing systematic monitoring projects at LU:
-* [ecodata](https://github.com/biodiversitydata-se/ecodata) - Primary data service for the Biocollect application
-* [biocollect - front-end for ecodata, enables entering and retrieving systematic monitoring data (occurences and sites) and managing projects 
-* ala-map-plugin - utilities for creating and displaying geographic data for clients of the ecodata services  
-* ecodata-client-plugin - utilities and form rendering for clients of the ecodata services 
+* [ala-map-plugin](https://github.com/biodiversitydata-se/ala-map-plugin) - Utilities for creating and displaying geographic data for clients of the ecodata services.
+* biocollect - Front-end for ecodata, enables entering and retrieving systematic monitoring data (occurences and sites) and managing projects. 
+* [ecodata](https://github.com/biodiversitydata-se/ecodata) - Primary data service for the Biocollect application.
+* [ecodata-client-plugin](https://github.com/biodiversitydata-se/ecodata-client-plugin) - Utilities and form rendering for clients of the ecodata services.
 
 ### <a name="archeological"></a>Archeological data
 
@@ -61,5 +60,10 @@ R package to access and use Swedish biodivesrity data
 
 ### <a name="support"></a>Support
 
+### <a name="systematic"></a>Systematic monitoring at LU
+* [ala-map-plugin](https://github.com/biodiversitydata-se/ala-map-plugin) - Utilities for creating and displaying geographic data for clients of the ecodata services.
+* biocollect - Front-end for ecodata, enables entering and retrieving systematic monitoring data (occurences and sites) and managing projects. 
+* [ecodata](https://github.com/biodiversitydata-se/ecodata) - Primary data service for the Biocollect application.
+* [ecodata-client-plugin](https://github.com/biodiversitydata-se/ecodata-client-plugin) - Utilities and form rendering for clients of the ecodata services.
 
 
