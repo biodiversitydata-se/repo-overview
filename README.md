@@ -42,7 +42,7 @@ Free tool for phyto- and zooplankton.
 Source files for GitHub Pages on molecular data services provided by SBDI.
 
 * [mol-mod](https://github.com/biodiversitydata-se/mol-mod) -
-TEST module for handling sequence-based occurrence data in SBDI.
+Module (web app) for handling sequence-based occurrence data in SBDI.
 
 * [nf-core/ampliseq](https://github.com/nf-core/ampliseq) -
 16S rRNA amplicon sequencing analysis workflow using QIIME2.
