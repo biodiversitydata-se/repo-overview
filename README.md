@@ -56,11 +56,9 @@ R package to access and use Swedish biodivesrity data
 
 * other R resources - Mirroreum, ...
 
-### <a name="systematic"></a>Systematic inventory data
-
 ### <a name="support"></a>Support
 
-### <a name="systematic"></a>Systematic monitoring at LU
+### <a name="systematic"></a>Systematic monitoring
 * [ala-map-plugin](https://github.com/biodiversitydata-se/ala-map-plugin) - Utilities for creating and displaying geographic data for clients of the ecodata services.
 * biocollect - Front-end for ecodata, enables entering and retrieving systematic monitoring data (occurences and sites) and managing projects. 
 * [ecodata](https://github.com/biodiversitydata-se/ecodata) - Primary data service for the Biocollect application.
