@@ -1,5 +1,5 @@
 # SBDI repo overview
-The Swedish Biodiversity Data Infrastructure (SBDI) is a collaboration between eleven consortium partners, and will aggregate a variety of tools and open-source software projects. Although most of these will be developed or forked under [biodiversitydata-se](https://github.com/biodiversitydata-se/), some will be hosted by partner organizations or external collaborators. We aim to provide a comprehensive overview of SBDI-related repos below:
+The [Swedish Biodiversity Data Infrastructure (SBDI)](https://biodiversitydata.se/) is a collaboration between eleven consortium partners, and will aggregate a variety of tools and open-source software projects. Although most of these will be developed or forked under [biodiversitydata-se](https://github.com/biodiversitydata-se/), some will be hosted by partner organizations or external collaborators. We aim to provide a comprehensive overview of SBDI-related repos below:
 
 ## Repos hosted elsewhere
 The following repos are hosted by SBDI consortium partners or external collaborators:
@@ -25,8 +25,8 @@ Internal and external SBDI repos can be loosely grouped into the following, non-
 ### <a name="ala-forks"></a>ALA forks
 
 Tools for managing systematic monitoring projects at LU:
-* ecodata - primary data service for the Biocollect application
-* biocollect - front-end for ecodata, enables entering and retrieving systematic monitoring data (occurences and sites) and managing projects 
+* [ecodata](https://github.com/biodiversitydata-se/ecodata) - Primary data service for the Biocollect application
+* [biocollect - front-end for ecodata, enables entering and retrieving systematic monitoring data (occurences and sites) and managing projects 
 * ala-map-plugin - utilities for creating and displaying geographic data for clients of the ecodata services  
 * ecodata-client-plugin - utilities and form rendering for clients of the ecodata services 
 
