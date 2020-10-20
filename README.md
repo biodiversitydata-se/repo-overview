@@ -20,7 +20,7 @@ Internal and external SBDI repos can be loosely grouped into the following, non-
 * [R](#r)
 * [SBDI information and discussion](#sbdi-info)
 * [Support](#support)
-* [Systematic monitoring at LU](#systematic)
+* [Systematic monitoring](#systematic)
 
   
 ### <a name="ala-forks"></a>ALA forks
