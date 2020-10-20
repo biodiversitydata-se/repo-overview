@@ -1,5 +1,5 @@
 # SBDI repo overview
-The Swedish Biodiversity Data Infrastructure (SBDI) is a collaboration between eleven consortium partners, and will aggregate a variety of tools and open-source software projects. Although most of these will be developed or forked under [biodiversitydata-se](https://github.com/biodiversitydata-se/), some will be hosted by partner organizations or external collaborators. As an overview of all SBDI-related resources, we list these external SBDI-related repos below, and also group (internal or external) repos according to a few SBDI themes, below:
+The Swedish Biodiversity Data Infrastructure (SBDI) is a collaboration between eleven consortium partners, and will aggregate a variety of tools and open-source software projects. Although most of these will be developed or forked under [biodiversitydata-se](https://github.com/biodiversitydata-se/), some will be hosted by partner organizations or external collaborators. We aim to provide a comprehensive overview of SBDI-related repos below:
 
 ## Repos hosted elsewhere
 The following repos are hosted by SBDI consortium partners or external collaborators:
