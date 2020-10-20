@@ -51,8 +51,8 @@ TEST module for handling sequence-based occurrence data in SBDI.
 
 ### <a name="r"></a>R
 
-* SBDI4R - 
-R package to access and use Swedish biodivesrity data
+* [SBDI4R](https://github.com/biodiversitydata-se/SBDI4R) - 
+R package to access and use Swedish biodiversity data.
 
 * other R resources - Mirroreum, ...
 
