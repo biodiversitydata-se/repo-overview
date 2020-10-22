@@ -32,6 +32,7 @@ Internal and external SBDI repos can be loosely grouped into the following, non-
 ### <a name="archeological"></a>Archeological data
 
 ### <a name="courses"></a>Courses and workshops
+* [workshops](https://github.com/biodiversitydata-se/workshops) - Online material for SBDI courses.
 
 ### <a name="marine"></a>Marine data
 * [plankton-toolbox](https://github.com/planktontoolbox/plankton-toolbox) -
