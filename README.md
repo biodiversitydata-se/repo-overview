@@ -10,6 +10,9 @@ The following repos are hosted by SBDI consortium partners or external collabora
 * [plankton-toolbox](https://github.com/planktontoolbox/plankton-toolbox) -
 Free tool for phyto- and zooplankton.
 
+* [nordicmicroalgae](https://github.com/nordicmicroalgae/nordicmicroalgae) - 
+Nordic Microalgae - data layer and API.
+
 ## Repos grouped by theme 
 Internal and external SBDI repos can be loosely grouped into the following, non-mutually exclusive categories:
 * [ALA forks](#ala-forks)
@@ -35,6 +38,9 @@ Internal and external SBDI repos can be loosely grouped into the following, non-
 * [workshops](https://github.com/biodiversitydata-se/workshops) - Online material for SBDI courses.
 
 ### <a name="marine"></a>Marine data
+* [nordicmicroalgae](https://github.com/nordicmicroalgae/nordicmicroalgae) - 
+Nordic Microalgae - data layer and API.
+
 * [plankton-toolbox](https://github.com/planktontoolbox/plankton-toolbox) -
 Free tool for phyto- and zooplankton.
 
