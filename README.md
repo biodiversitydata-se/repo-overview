@@ -7,11 +7,12 @@ The following repos are hosted by SBDI consortium partners or external collabora
 * [nf-core/ampliseq](https://github.com/nf-core/ampliseq) -
 16S rRNA amplicon sequencing analysis workflow using QIIME2.
 
+* [nordicmicroalgae](https://github.com/nordicmicroalgae/nordicmicroalgae) - 
+Nordic Microalgae - data layer and API.
+
 * [plankton-toolbox](https://github.com/planktontoolbox/plankton-toolbox) -
 Free tool for phyto- and zooplankton.
 
-* [nordicmicroalgae](https://github.com/nordicmicroalgae/nordicmicroalgae) - 
-Nordic Microalgae - data layer and API.
 
 ## Repos grouped by theme 
 Internal and external SBDI repos can be loosely grouped into the following, non-mutually exclusive categories:
