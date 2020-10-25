@@ -13,6 +13,11 @@ Nordic Microalgae - data layer and API.
 * [plankton-toolbox](https://github.com/planktontoolbox/plankton-toolbox) -
 Free tool for phyto- and zooplankton.
 
+* [Koster Seafloor Observatory - model](https://github.com/ocean-data-factory-sweden/koster_ml)
+ Object detection model for subsea imagery
+
+* [Koster Seafloor Observatory - database](https://github.com/ocean-data-factory-sweden/koster_zooniverse)
+Citizen science and database modules
 
 ## Repos grouped by theme 
 Internal and external SBDI repos can be loosely grouped into the following, non-mutually exclusive categories:
@@ -44,6 +49,12 @@ Nordic Microalgae - data layer and API.
 
 * [plankton-toolbox](https://github.com/planktontoolbox/plankton-toolbox) -
 Free tool for phyto- and zooplankton.
+
+* [Koster Seafloor Observatory - model](https://github.com/ocean-data-factory-sweden/koster_ml)
+ Object detection model for subsea imagery
+
+* [Koster Seafloor Observatory - database](https://github.com/ocean-data-factory-sweden/koster_zooniverse)
+Citizen science and database modules
 
 ### <a name="molecular"></a>Molecular data
 * [mol-data](https://github.com/biodiversitydata-se/mol-data) -
