@@ -4,14 +4,14 @@ The [Swedish Biodiversity Data Infrastructure (SBDI)](https://biodiversitydata.s
 ## Repos hosted elsewhere
 The following repos are hosted by SBDI consortium partners or external collaborators:
 
+* [ampliseq](https://github.com/nf-core/ampliseq) -
+Nextflow pipeline for 16S rRNA amplicon sequencing analysis using QIIME2.
+
 * [koster_ml](https://github.com/ocean-data-factory-sweden/koster_ml) -
  Koster Seafloor Observatory: Object detection model for subsea imagery.
 
 * [koster_zooniverse](https://github.com/ocean-data-factory-sweden/koster_zooniverse) -
 Koster Seafloor Observatory: Citizen science and database modules.
-
-* [nf-core/ampliseq](https://github.com/nf-core/ampliseq) -
-16S rRNA amplicon sequencing analysis workflow using QIIME2.
 
 * [nordicmicroalgae](https://github.com/nordicmicroalgae/nordicmicroalgae) - 
 Nordic Microalgae - data layer and API.
@@ -44,7 +44,6 @@ Internal and external SBDI repos can be loosely grouped into the following, non-
 * [workshops](https://github.com/biodiversitydata-se/workshops) - Online material for SBDI courses.
 
 ### <a name="marine"></a>Marine data
-
 * [koster_ml](https://github.com/ocean-data-factory-sweden/koster_ml) -
  Koster Seafloor Observatory: Object detection model for subsea imagery.
 
@@ -58,14 +57,14 @@ Nordic Microalgae - data layer and API.
 Free tool for phyto- and zooplankton.
 
 ### <a name="molecular"></a>Molecular data
+* [ampliseq](https://github.com/nf-core/ampliseq) -
+Nextflow pipeline for 16S rRNA amplicon sequencing analysis using QIIME2.
+
 * [mol-data](https://github.com/biodiversitydata-se/mol-data) -
 Source files for GitHub Pages on molecular data services provided by SBDI.
 
 * [mol-mod](https://github.com/biodiversitydata-se/mol-mod) -
 Module for handling sequence-based occurrence data in SBDI.
-
-* [nf-core/ampliseq](https://github.com/nf-core/ampliseq) -
-16S rRNA amplicon sequencing analysis workflow using QIIME2.
 
 * [taxon-build-test](https://github.com/biodiversitydata-se/taxon-build-test) - 
 Preprocessing and merging of GBIF taxonomy with GTDB, using Taxonomy builder.
