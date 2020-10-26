@@ -4,6 +4,12 @@ The [Swedish Biodiversity Data Infrastructure (SBDI)](https://biodiversitydata.s
 ## Repos hosted elsewhere
 The following repos are hosted by SBDI consortium partners or external collaborators:
 
+* [koster_ml](https://github.com/ocean-data-factory-sweden/koster_ml) -
+ Koster Seafloor Observatory: Object detection model for subsea imagery.
+
+* [koster_zooniverse](https://github.com/ocean-data-factory-sweden/koster_zooniverse) -
+Koster Seafloor Observatory: Citizen science and database modules.
+
 * [nf-core/ampliseq](https://github.com/nf-core/ampliseq) -
 16S rRNA amplicon sequencing analysis workflow using QIIME2.
 
@@ -12,12 +18,6 @@ Nordic Microalgae - data layer and API.
 
 * [plankton-toolbox](https://github.com/planktontoolbox/plankton-toolbox) -
 Free tool for phyto- and zooplankton.
-
-* [Koster Seafloor Observatory (model)](https://github.com/ocean-data-factory-sweden/koster_ml) -
- Object detection model for subsea imagery
-
-* [Koster Seafloor Observatory (database)](https://github.com/ocean-data-factory-sweden/koster_zooniverse) -
-Citizen science and database modules
 
 ## Repos grouped by theme 
 Internal and external SBDI repos can be loosely grouped into the following, non-mutually exclusive categories:
@@ -44,17 +44,18 @@ Internal and external SBDI repos can be loosely grouped into the following, non-
 * [workshops](https://github.com/biodiversitydata-se/workshops) - Online material for SBDI courses.
 
 ### <a name="marine"></a>Marine data
+
+* [koster_ml](https://github.com/ocean-data-factory-sweden/koster_ml) -
+ Koster Seafloor Observatory: Object detection model for subsea imagery.
+
+* [koster_zooniverse](https://github.com/ocean-data-factory-sweden/koster_zooniverse) -
+Koster Seafloor Observatory: Citizen science and database modules.
+
 * [nordicmicroalgae](https://github.com/nordicmicroalgae/nordicmicroalgae) - 
 Nordic Microalgae - data layer and API.
 
 * [plankton-toolbox](https://github.com/planktontoolbox/plankton-toolbox) -
 Free tool for phyto- and zooplankton.
-
-* [Koster Seafloor Observatory (model)](https://github.com/ocean-data-factory-sweden/koster_ml) -
- Object detection model for subsea imagery
-
-* [Koster Seafloor Observatory (database)](https://github.com/ocean-data-factory-sweden/koster_zooniverse) -
-Citizen science and database modules
 
 ### <a name="molecular"></a>Molecular data
 * [mol-data](https://github.com/biodiversitydata-se/mol-data) -
