@@ -78,6 +78,8 @@ R package to access and use Swedish biodiversity data.
 
 * [other R resources](https://github.com/biodiversitydata-se/r-functionality) 
 
+* [R tools tutorial](https://github.com/biodiversitydata-se/r-tools-tutorial) - tutorial for & demo of SBDI R tools
+
 ### <a name="support"></a>Support
 
 ### <a name="systematic"></a>Systematic monitoring
