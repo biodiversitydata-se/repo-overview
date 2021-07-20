@@ -82,6 +82,9 @@ R package to access and use Swedish biodiversity data.
 
 ### <a name="support"></a>Support
 
+* [sbdi-support](https://github.com/biodiversitydata-se/sbdi-support) - 
+Support issues from the support form and coming in other ways.
+
 ### <a name="systematic"></a>Systematic monitoring
 * [ala-map-plugin](https://github.com/biodiversitydata-se/ala-map-plugin) - Utilities for creating and displaying geographic data for clients of the ecodata services.
 * [biocollect](https://github.com/biodiversitydata-se/biocollect) - Front-end for ecodata, enables entering and retrieving systematic monitoring data (occurences and sites) and managing projects. 
