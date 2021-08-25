@@ -64,7 +64,10 @@ Nextflow pipeline for 16S rRNA amplicon sequencing analysis using QIIME2.
 Source files for GitHub Pages on molecular data services provided by SBDI.
 
 * [mol-mod](https://github.com/biodiversitydata-se/mol-mod) -
-Module for handling sequence-based occurrence data in SBDI.
+Module for handling sequence-based occurrence data in SBDI (ASV portal).
+
+* [proxy-ws-mol-mod-docker](https://github.com/biodiversitydata-se/proxy-ws-mol-mod-docker) -
+A dockerized NGINX reverse proxy for ASV portal.
 
 * [taxon-build-test](https://github.com/biodiversitydata-se/taxon-build-test) - 
 Preprocessing and merging of GBIF taxonomy with GTDB, using Taxonomy builder.
