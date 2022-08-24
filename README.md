@@ -60,6 +60,9 @@ Free tool for phyto- and zooplankton.
 * [ampliseq](https://github.com/nf-core/ampliseq) -
 Nextflow pipeline for 16S rRNA amplicon sequencing analysis using QIIME2.
 
+* [coidb](https://github.com/biodiversitydata-se/coidb) -
+COI (mitochondrial cytochrome oxidase subunit I) sequences collected from the BOLD database.
+
 * [mol-data](https://github.com/biodiversitydata-se/mol-data) -
 Source files for GitHub Pages on molecular data services provided by SBDI.
 
