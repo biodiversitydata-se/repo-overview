@@ -72,6 +72,9 @@ Module for handling sequence-based occurrence data in SBDI (ASV portal).
 * [proxy-ws-mol-mod-docker](https://github.com/biodiversitydata-se/proxy-ws-mol-mod-docker) -
 A dockerized NGINX reverse proxy for ASV portal.
 
+* [sbdi-phylomarkercheck](https://github.com/biodiversitydata-se/sbdi-phylomarkercheck) - 
+A pipeline that checks GTDB 16S sequences for phylogenetic signal with Sativa.
+
 * [sbdi-gtdb](https://github.com/biodiversitydata-se/sbdi-gtdb) - 
 SBDI Sativa curated 16S GTDB database.
 
