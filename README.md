@@ -60,7 +60,7 @@ Free tool for phyto- and zooplankton.
 * [ampliseq](https://github.com/nf-core/ampliseq) -
 Nextflow pipeline for 16S rRNA amplicon sequencing analysis using QIIME2.
 
-* [asvoccur](github.com/biodiversitydata-se/asvoccur) -
+* [asvoccur](https://github.com/biodiversitydata-se/asvoccur) -
 R tools for ASV occurrence data in SBDI.
 
 * [coidb](https://github.com/biodiversitydata-se/coidb) -
