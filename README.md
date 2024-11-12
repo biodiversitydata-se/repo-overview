@@ -13,6 +13,9 @@ Nextflow pipeline for 16S rRNA amplicon sequencing analysis using QIIME2.
 * [koster_zooniverse](https://github.com/ocean-data-factory-sweden/koster_zooniverse) -
 Koster Seafloor Observatory: Citizen science and database modules.
 
+* [magmap](https://github.com/nf-core/magmap/) -
+Nextflow pipeline for quantification of metagenome assembled genomes (MAGs) 
+
 * [nordicmicroalgae](https://github.com/nordicmicroalgae/nordicmicroalgae) - 
 Nordic Microalgae - data layer and API.
 
@@ -65,6 +68,9 @@ R tools for ASV occurrence data in SBDI.
 
 * [coidb](https://github.com/biodiversitydata-se/coidb) -
 COI (mitochondrial cytochrome oxidase subunit I) sequences collected from the BOLD database.
+
+* [magmap](https://github.com/nf-core/magmap/) -
+Nextflow pipeline for quantification of metagenome assembled genomes (MAGs)
 
 * [mol-data](https://github.com/biodiversitydata-se/mol-data) -
 Source files for GitHub Pages on molecular data services provided by SBDI.
