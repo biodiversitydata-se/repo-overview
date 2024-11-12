@@ -26,6 +26,7 @@ Free tool for phyto- and zooplankton.
 Internal and external SBDI repos can be loosely grouped into the following, non-mutually exclusive categories:
 * [ALA forks](#ala-forks)
 * [Archeological data](#archeological)
+* [Biologging portal](#biologging)
 * [Courses and workshops](#courses)
 * [Marine data](#marine)
 * [Molecular data](#molecular)
@@ -42,6 +43,11 @@ Internal and external SBDI repos can be loosely grouped into the following, non-
 * [ecodata-client-plugin](https://github.com/biodiversitydata-se/ecodata-client-plugin) - Utilities and form rendering for clients of the ecodata services.
 
 ### <a name="archeological"></a>Archeological data
+
+### <a name="biologging"></a>Biologging Portal
+* [biologging API](https://github.com/biodiversitydata-se/biologging-sensor-API) - API developped with Swagger OpenAPI to fetch the biologging data from the database. 
+* [biologging client](https://github.com/biodiversitydata-se/biologging-sensor-client) - Biologging webclient portal, using the biologging-API 
+* [biologging data-model](https://github.com/biodiversitydata-se/biologging-sensor-datamodel) - Datamodel documentation of the SBDI Biologging portal 
 
 ### <a name="courses"></a>Courses and workshops
 * [workshops](https://github.com/biodiversitydata-se/workshops) - Online material for SBDI courses.
