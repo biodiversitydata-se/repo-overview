@@ -26,6 +26,7 @@ Free tool for phyto- and zooplankton.
 Internal and external SBDI repos can be loosely grouped into the following, non-mutually exclusive categories:
 * [ALA forks](#ala-forks)
 * [Archeological data](#archeological)
+* [Bioatlas](#bioatlas)
 * [Biologging portal](#biologging)
 * [Courses and workshops](#courses)
 * [Marine data](#marine)
@@ -41,8 +42,57 @@ Internal and external SBDI repos can be loosely grouped into the following, non-
 * [biocollect](https://github.com/biodiversitydata-se/biocollect) - Front-end for ecodata, enables entering and retrieving systematic monitoring data (occurences and sites) and managing projects. 
 * [ecodata](https://github.com/biodiversitydata-se/ecodata) - Primary data service for the Biocollect application.
 * [ecodata-client-plugin](https://github.com/biodiversitydata-se/ecodata-client-plugin) - Utilities and form rendering for clients of the ecodata services.
+* [ala-bie-hub](https://github.com/biodiversitydata-se/ala-bie-hub)
+* [ala-cas-5](https://github.com/biodiversitydata-se/ala-cas-5)
+* [ala-hub](https://github.com/biodiversitydata-se/ala-hub)
+* [ala-namematching-service](https://github.com/biodiversitydata-se/ala-namematching-service)
+* [ala-sensitive-data-service](https://github.com/biodiversitydata-se/ala-sensitive-data-service)
+* [apikey](https://github.com/biodiversitydata-se/apikey)
+* [base-branding](https://github.com/biodiversitydata-se/base-branding)
+* [bie-index](https://github.com/biodiversitydata-se/bie-index)
+* [biocache-service](https://github.com/biodiversitydata-se/biocache-service)
+* [collectory](https://github.com/biodiversitydata-se/collectory)
+* [dashboard](https://github.com/biodiversitydata-se/dashboard)
+* [data-quality-filter-service](https://github.com/biodiversitydata-se/data-quality-filter-service)
+* [image-service](https://github.com/biodiversitydata-se/image-service)
+* [logger-service](https://github.com/biodiversitydata-se/logger-service)
+* [pipelines](https://github.com/biodiversitydata-se/pipelines)
+* [regions](https://github.com/biodiversitydata-se/regions)
+* [sds-webapp2](https://github.com/biodiversitydata-se/sds-webapp2)
+* [spatial-hub](https://github.com/biodiversitydata-se/spatial-hub)
+* [spatial-service](https://github.com/biodiversitydata-se/spatial-service)
+* [specieslist-webapp](https://github.com/biodiversitydata-se/specieslist-webapp)
+* [userdetails](https://github.com/biodiversitydata-se/userdetails)
 
 ### <a name="archeological"></a>Archeological data
+
+### <a name="bioatlas"></a>Bioatlas
+* [ala-bie-hub](https://github.com/biodiversitydata-se/ala-bie-hub)
+* [ala-cas-5](https://github.com/biodiversitydata-se/ala-cas-5)
+* [ala-hub](https://github.com/biodiversitydata-se/ala-hub)
+* [ala-namematching-service](https://github.com/biodiversitydata-se/ala-namematching-service)
+* [ala-sensitive-data-service](https://github.com/biodiversitydata-se/ala-sensitive-data-service)
+* [api-docs](https://github.com/biodiversitydata-se/api-docs)
+* [apikey](https://github.com/biodiversitydata-se/apikey)
+* [base-branding](https://github.com/biodiversitydata-se/base-branding)
+* [bie-index](https://github.com/biodiversitydata-se/bie-index)
+* [bie-solr](https://github.com/biodiversitydata-se/bie-solr)
+* [biocache-service](https://github.com/biodiversitydata-se/biocache-service)
+* [biocache-solr](https://github.com/biodiversitydata-se/biocache-solr)
+* [collectory](https://github.com/biodiversitydata-se/collectory)
+* [dashboard](https://github.com/biodiversitydata-se/dashboard)
+* [data-quality-filter-service](https://github.com/biodiversitydata-se/data-quality-filter-service)
+* [image-service](https://github.com/biodiversitydata-se/image-service)
+* [gbif-taxonomy-for-la](https://github.com/biodiversitydata-se/gbif-taxonomy-for-la)
+* [geoserver](https://github.com/biodiversitydata-se/geoserver)
+* [logger-service](https://github.com/biodiversitydata-se/logger-service)
+* [pipelines](https://github.com/biodiversitydata-se/pipelines)
+* [regions](https://github.com/biodiversitydata-se/regions)
+* [sds-webapp2](https://github.com/biodiversitydata-se/sds-webapp2)
+* [spatial-hub](https://github.com/biodiversitydata-se/spatial-hub)
+* [spatial-service](https://github.com/biodiversitydata-se/spatial-service)
+* [specieslist-webapp](https://github.com/biodiversitydata-se/specieslist-webapp)
+* [userdetails](https://github.com/biodiversitydata-se/userdetails)
 
 ### <a name="biologging"></a>Biologging Portal
 * [biologging API](https://github.com/biodiversitydata-se/biologging-sensor-API) - API developped with Swagger OpenAPI to fetch the biologging data from the database. 
@@ -109,6 +159,8 @@ R functionality for the SBDI data portal.
   
 * [asvoccur](https://github.com/biodiversitydata-se/asvoccur) -
 R tools for ASV occurrence data in SBDI.
+
+* [mirroreum](https://github.com/biodiversitydata-se/mirroreum)
 
 ### <a name="support"></a>Support
 
