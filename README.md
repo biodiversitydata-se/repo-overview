@@ -100,8 +100,8 @@ Preprocessing and merging of GBIF taxonomy with GTDB, using Taxonomy builder.
 
 ### <a name="r"></a>R
 
-* [SBDI4R](https://github.com/biodiversitydata-se/SBDI4R) - 
-R package to access and use Swedish biodiversity data.
+* [SBDI4R2](https://github.com/biodiversitydata-se/sbdi4r2) - 
+R functionality for the SBDI data portal.
 
 * [other R resources](https://github.com/biodiversitydata-se/r-functionality) 
 
