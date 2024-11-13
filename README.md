@@ -87,11 +87,11 @@ Module for handling sequence-based occurrence data in SBDI (ASV portal).
 * [proxy-ws-mol-mod-docker](https://github.com/biodiversitydata-se/proxy-ws-mol-mod-docker) -
 A dockerized NGINX reverse proxy for ASV portal.
 
-* [sbdi-phylomarkercheck](https://github.com/biodiversitydata-se/sbdi-phylomarkercheck) - 
-A pipeline that checks GTDB 16S sequences for phylogenetic signal with Sativa.
-
 * [sbdi-gtdb](https://github.com/biodiversitydata-se/sbdi-gtdb) - 
 SBDI Sativa curated 16S GTDB database.
+
+* [sbdi-phylomarkercheck](https://github.com/biodiversitydata-se/sbdi-phylomarkercheck) - 
+A pipeline that checks GTDB 16S sequences for phylogenetic signal with Sativa.
 
 * [taxon-build-test](https://github.com/biodiversitydata-se/taxon-build-test) - 
 Preprocessing and merging of GBIF taxonomy with GTDB, using Taxonomy builder.
@@ -106,6 +106,9 @@ R package to access and use Swedish biodiversity data.
 * [other R resources](https://github.com/biodiversitydata-se/r-functionality) 
 
 * [R tools tutorial](https://github.com/biodiversitydata-se/r-tools-tutorial) - tutorial for & demo of SBDI R tools
+  
+* [asvoccur](https://github.com/biodiversitydata-se/asvoccur) -
+R tools for ASV occurrence data in SBDI.
 
 ### <a name="support"></a>Support
 
