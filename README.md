@@ -16,11 +16,17 @@ Koster Seafloor Observatory: Citizen science and database modules.
 * [magmap](https://github.com/nf-core/magmap/) -
 Nextflow pipeline for quantification of metagenome assembled genomes (MAGs) 
 
-* [nordicmicroalgae](https://github.com/nordicmicroalgae/nordicmicroalgae) - 
-Nordic Microalgae - data layer and API.
+* [nordicmicroalgae](https://github.com/nordicmicroalgae/) - 
+Nordic Microalgae - pipeline/content/backend/frontend.
 
 * [plankton-toolbox](https://github.com/planktontoolbox/plankton-toolbox) -
 Free tool for phyto- and zooplankton.
+
+* [SHARK4R](https://github.com/sharksmhi/SHARK4R) -
+R package for queries towards the SHARK and Dyntaxa APIs.
+
+* [iRfcb](https://github.com/EuropeanIFCBGroup/iRfcb) -
+R package for processing data from the Imaging FlowCytobot (IFCB).
 
 ## Repos grouped by theme 
 Internal and external SBDI repos can be loosely grouped into the following, non-mutually exclusive categories:
@@ -109,11 +115,17 @@ Internal and external SBDI repos can be loosely grouped into the following, non-
 * [koster_zooniverse](https://github.com/ocean-data-factory-sweden/koster_zooniverse) -
 Koster Seafloor Observatory: Citizen science and database modules.
 
-* [nordicmicroalgae](https://github.com/nordicmicroalgae/nordicmicroalgae) - 
-Nordic Microalgae - data layer and API.
+* [nordicmicroalgae](https://github.com/nordicmicroalgae/) - 
+Nordic Microalgae - pipeline/content/backend/frontend.
 
 * [plankton-toolbox](https://github.com/planktontoolbox/plankton-toolbox) -
 Free tool for phyto- and zooplankton.
+
+* [SHARK4R](https://github.com/sharksmhi/SHARK4R) -
+R package for queries towards the SHARK and Dyntaxa APIs.
+
+* [iRfcb](https://github.com/EuropeanIFCBGroup/iRfcb) -
+R package for processing data from the Imaging FlowCytobot (IFCB).
 
 ### <a name="molecular"></a>Molecular data
 * [ampliseq](https://github.com/nf-core/ampliseq) -
