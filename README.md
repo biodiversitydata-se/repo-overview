@@ -7,6 +7,12 @@ The following repos are hosted by SBDI consortium partners or external collabora
 * [ampliseq](https://github.com/nf-core/ampliseq) -
 Nextflow pipeline for 16S rRNA amplicon sequencing analysis using QIIME2.
 
+* [hbgb-rais-caddy](https://github.com/pragermh/hbgb-rais-caddy) -
+IIIF setup for displaying herbarium images with RAIS, Caddy, and OpenSeadragon.
+
+* [iRfcb](https://github.com/EuropeanIFCBGroup/iRfcb) -
+R package for processing data from the Imaging FlowCytobot (IFCB).
+
 * [koster_ml](https://github.com/ocean-data-factory-sweden/koster_ml) -
  Koster Seafloor Observatory: Object detection model for subsea imagery.
 
@@ -25,8 +31,6 @@ Free tool for phyto- and zooplankton.
 * [SHARK4R](https://github.com/sharksmhi/SHARK4R) -
 R package for queries towards the SHARK and Dyntaxa APIs.
 
-* [iRfcb](https://github.com/EuropeanIFCBGroup/iRfcb) -
-R package for processing data from the Imaging FlowCytobot (IFCB).
 
 ## Repos grouped by theme 
 Internal and external SBDI repos can be loosely grouped into the following, non-mutually exclusive categories:
@@ -34,6 +38,7 @@ Internal and external SBDI repos can be loosely grouped into the following, non-
 * [Archeological data](#archeological)
 * [Biologging portal](#biologging)
 * [Courses and workshops](#courses)
+* [Herbarium data](#herbarium)
 * [Marine data](#marine)
 * [Molecular data](#molecular)
 * [R](#r)
@@ -83,6 +88,10 @@ Internal and external SBDI repos can be loosely grouped into the following, non-
 
 ### <a name="courses"></a>Courses and workshops
 * [workshops](https://github.com/biodiversitydata-se/workshops) - Online material for SBDI courses.
+
+### <a name="herbarium"></a>Herbarium data
+* [hbgb-rais-caddy](https://github.com/pragermh/hbgb-rais-caddy) -
+IIIF setup for displaying herbarium images with RAIS, Caddy, and OpenSeadragon.
 
 ### <a name="marine"></a>Marine data
 * [koster_ml](https://github.com/ocean-data-factory-sweden/koster_ml) -
