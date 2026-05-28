@@ -7,9 +7,12 @@ The following repos are hosted by SBDI consortium partners or external collabora
 * [ampliseq](https://github.com/nf-core/ampliseq) -
 Nextflow pipeline for 16S rRNA amplicon sequencing analysis using QIIME2.
 
-* [hbgb-rais-caddy](https://github.com/pragermh/hbgb-rais-caddy) -
-IIIF setup for displaying herbarium images with RAIS, Caddy, and OpenSeadragon.
-
+* [herbarium-data](https://github.com/herbarium-gb/herbarium-data) –
+  Data processing workflows and tools for Herbarium GB collections.
+  
+* [herbarium-platform](https://github.com/herbarium-gb/herbarium-platform)
+  – Web platform and infrastructure for managing and publishing Herbarium GB collection data.
+  
 * [iRfcb](https://github.com/EuropeanIFCBGroup/iRfcb) -
 R package for processing data from the Imaging FlowCytobot (IFCB).
 
@@ -90,8 +93,12 @@ Internal and external SBDI repos can be loosely grouped into the following, non-
 * [workshops](https://github.com/biodiversitydata-se/workshops) - Online material for SBDI courses.
 
 ### <a name="herbarium"></a>Herbarium data
-* [hbgb-rais-caddy](https://github.com/pragermh/hbgb-rais-caddy) -
-IIIF setup for displaying herbarium images with RAIS, Caddy, and OpenSeadragon.
+
+* [herbarium-data](https://github.com/herbarium-gb/herbarium-data) –
+  Data processing workflows and tools for Herbarium GB collections.
+  
+* [herbarium-platform](https://github.com/herbarium-gb/herbarium-platform)
+  – Web platform and infrastructure for managing and publishing Herbarium GB collection data.
 
 ### <a name="marine"></a>Marine data
 * [koster_ml](https://github.com/ocean-data-factory-sweden/koster_ml) -
@@ -133,6 +140,9 @@ Module for handling sequence-based occurrence data in SBDI (ASV portal).
 
 * [proxy-ws-mol-mod-docker](https://github.com/biodiversitydata-se/proxy-ws-mol-mod-docker) -
 A dockerized NGINX reverse proxy for ASV portal.
+
+* [sbdi-days-eDNA](https://biodiversitydata-se.github.io/sbdi-days-eDNA) -
+Source files for SBDI Days 2026 eDNA workshop website and tutorial.
 
 * [sbdi-gtdb](https://github.com/biodiversitydata-se/sbdi-gtdb) - 
 SBDI Sativa curated 16S GTDB database.
