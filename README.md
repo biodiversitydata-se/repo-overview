@@ -90,6 +90,9 @@ Internal and external SBDI repos can be loosely grouped into the following, non-
 * [biologging data-model](https://github.com/biodiversitydata-se/biologging-sensor-datamodel) - Datamodel documentation of the SBDI Biologging portal 
 
 ### <a name="courses"></a>Courses and workshops
+* [sbdi-days-eDNA](https://biodiversitydata-se.github.io/sbdi-days-eDNA) -
+Source files for SBDI Days 2026 eDNA workshop website and tutorial.
+
 * [workshops](https://github.com/biodiversitydata-se/workshops) - Online material for SBDI courses.
 
 ### <a name="herbarium"></a>Herbarium data
