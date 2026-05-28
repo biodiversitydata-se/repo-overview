@@ -4,39 +4,20 @@ The [Swedish Biodiversity Data Infrastructure (SBDI)](https://biodiversitydata.s
 ## Repos hosted elsewhere
 The following repos are hosted by SBDI consortium partners or external collaborators:
 
-* [ampliseq](https://github.com/nf-core/ampliseq) -
-Nextflow pipeline for 16S rRNA amplicon sequencing analysis using QIIME2.
+* [ampliseq](https://github.com/nf-core/ampliseq) - Nextflow pipeline for 16S rRNA amplicon sequencing analysis using QIIME2.
+* [herbarium-data](https://github.com/herbarium-gb/herbarium-data) - Data processing workflows and tools for Herbarium GB collections.
+* [herbarium-platform](https://github.com/herbarium-gb/herbarium-platform) - Web platform and infrastructure for managing and publishing Herbarium GB collection data.
+* [iRfcb](https://github.com/EuropeanIFCBGroup/iRfcb) - R package for processing data from the Imaging FlowCytobot (IFCB).
+* [koster_ml](https://github.com/ocean-data-factory-sweden/koster_ml) - Koster Seafloor Observatory: Object detection model for subsea imagery.
+* [koster_zooniverse](https://github.com/ocean-data-factory-sweden/koster_zooniverse) - Koster Seafloor Observatory: Citizen science and database modules.
+* [magmap](https://github.com/nf-core/magmap/) - Nextflow pipeline for quantification of metagenome assembled genomes (MAGs).
+* [nordicmicroalgae](https://github.com/nordicmicroalgae/) - Nordic Microalgae - pipeline/content/backend/frontend.
+* [plankton-toolbox](https://github.com/planktontoolbox/plankton-toolbox) - Free tool for phyto- and zooplankton.
+* [SHARK4R](https://github.com/sharksmhi/SHARK4R) - R package for queries towards the SHARK and Dyntaxa APIs.
 
-* [herbarium-data](https://github.com/herbarium-gb/herbarium-data) –
-  Data processing workflows and tools for Herbarium GB collections.
-  
-* [herbarium-platform](https://github.com/herbarium-gb/herbarium-platform)
-  – Web platform and infrastructure for managing and publishing Herbarium GB collection data.
-  
-* [iRfcb](https://github.com/EuropeanIFCBGroup/iRfcb) -
-R package for processing data from the Imaging FlowCytobot (IFCB).
-
-* [koster_ml](https://github.com/ocean-data-factory-sweden/koster_ml) -
- Koster Seafloor Observatory: Object detection model for subsea imagery.
-
-* [koster_zooniverse](https://github.com/ocean-data-factory-sweden/koster_zooniverse) -
-Koster Seafloor Observatory: Citizen science and database modules.
-
-* [magmap](https://github.com/nf-core/magmap/) -
-Nextflow pipeline for quantification of metagenome assembled genomes (MAGs) 
-
-* [nordicmicroalgae](https://github.com/nordicmicroalgae/) - 
-Nordic Microalgae - pipeline/content/backend/frontend.
-
-* [plankton-toolbox](https://github.com/planktontoolbox/plankton-toolbox) -
-Free tool for phyto- and zooplankton.
-
-* [SHARK4R](https://github.com/sharksmhi/SHARK4R) -
-R package for queries towards the SHARK and Dyntaxa APIs.
-
-
-## Repos grouped by theme 
+## Repos grouped by theme
 Internal and external SBDI repos can be loosely grouped into the following, non-mutually exclusive categories:
+
 * [Bioatlas/ALA forks](#ala-forks)
 * [Archeological data](#archeological)
 * [Biologging portal](#biologging)
@@ -45,14 +26,12 @@ Internal and external SBDI repos can be loosely grouped into the following, non-
 * [Marine data](#marine)
 * [Molecular data](#molecular)
 * [R](#r)
-* [SBDI information and discussion](#sbdi-info)
 * [Support](#support)
 * [Systematic monitoring](#systematic)
 
-  
 ### <a name="ala-forks"></a>Bioatlas/ALA forks
 * [ala-map-plugin](https://github.com/biodiversitydata-se/ala-map-plugin) - Utilities for creating and displaying geographic data for clients of the ecodata services.
-* [biocollect](https://github.com/biodiversitydata-se/biocollect) - Front-end for ecodata, enables entering and retrieving systematic monitoring data (occurences and sites) and managing projects. 
+* [biocollect](https://github.com/biodiversitydata-se/biocollect) - Front-end for ecodata, enables entering and retrieving systematic monitoring data (occurences and sites) and managing projects.
 * [ecodata](https://github.com/biodiversitydata-se/ecodata) - Primary data service for the Biocollect application.
 * [ecodata-client-plugin](https://github.com/biodiversitydata-se/ecodata-client-plugin) - Utilities and form rendering for clients of the ecodata services.
 * [ala-bie-hub](https://github.com/biodiversitydata-se/ala-bie-hub)
@@ -85,102 +64,52 @@ Internal and external SBDI repos can be loosely grouped into the following, non-
 ### <a name="archeological"></a>Archeological data
 
 ### <a name="biologging"></a>Biologging Portal
-* [biologging API](https://github.com/biodiversitydata-se/biologging-sensor-API) - API developped with Swagger OpenAPI to fetch the biologging data from the database. 
-* [biologging client](https://github.com/biodiversitydata-se/biologging-sensor-client) - Biologging webclient portal, using the biologging-API 
-* [biologging data-model](https://github.com/biodiversitydata-se/biologging-sensor-datamodel) - Datamodel documentation of the SBDI Biologging portal 
+* [biologging API](https://github.com/biodiversitydata-se/biologging-sensor-API) - API developped with Swagger OpenAPI to fetch the biologging data from the database.
+* [biologging client](https://github.com/biodiversitydata-se/biologging-sensor-client) - Biologging webclient portal, using the biologging-API.
+* [biologging data-model](https://github.com/biodiversitydata-se/biologging-sensor-datamodel) - Datamodel documentation of the SBDI Biologging portal.
 
 ### <a name="courses"></a>Courses and workshops
-* [sbdi-days-eDNA](https://biodiversitydata-se.github.io/sbdi-days-eDNA) -
-Source files for SBDI Days 2026 eDNA workshop website and tutorial.
-
+* [sbdi-days-eDNA](https://biodiversitydata-se.github.io/sbdi-days-eDNA) - Source files for SBDI Days 2026 eDNA workshop website and tutorial.
 * [workshops](https://github.com/biodiversitydata-se/workshops) - Online material for SBDI courses.
 
 ### <a name="herbarium"></a>Herbarium data
-
-* [herbarium-data](https://github.com/herbarium-gb/herbarium-data) –
-  Data processing workflows and tools for Herbarium GB collections.
-  
-* [herbarium-platform](https://github.com/herbarium-gb/herbarium-platform)
-  – Web platform and infrastructure for managing and publishing Herbarium GB collection data.
+* [herbarium-data](https://github.com/herbarium-gb/herbarium-data) - Data processing workflows and tools for Herbarium GB collections.
+* [herbarium-platform](https://github.com/herbarium-gb/herbarium-platform) - Web platform and infrastructure for managing and publishing Herbarium GB collection data.
 
 ### <a name="marine"></a>Marine data
-* [koster_ml](https://github.com/ocean-data-factory-sweden/koster_ml) -
- Koster Seafloor Observatory: Object detection model for subsea imagery.
-
-* [koster_zooniverse](https://github.com/ocean-data-factory-sweden/koster_zooniverse) -
-Koster Seafloor Observatory: Citizen science and database modules.
-
-* [nordicmicroalgae](https://github.com/nordicmicroalgae/) - 
-Nordic Microalgae - pipeline/content/backend/frontend.
-
-* [plankton-toolbox](https://github.com/planktontoolbox/plankton-toolbox) -
-Free tool for phyto- and zooplankton.
-
-* [SHARK4R](https://github.com/sharksmhi/SHARK4R) -
-R package for queries towards the SHARK and Dyntaxa APIs.
-
-* [iRfcb](https://github.com/EuropeanIFCBGroup/iRfcb) -
-R package for processing data from the Imaging FlowCytobot (IFCB).
+* [koster_ml](https://github.com/ocean-data-factory-sweden/koster_ml) - Koster Seafloor Observatory: Object detection model for subsea imagery.
+* [koster_zooniverse](https://github.com/ocean-data-factory-sweden/koster_zooniverse) - Koster Seafloor Observatory: Citizen science and database modules.
+* [nordicmicroalgae](https://github.com/nordicmicroalgae/) - Nordic Microalgae - pipeline/content/backend/frontend.
+* [plankton-toolbox](https://github.com/planktontoolbox/plankton-toolbox) - Free tool for phyto- and zooplankton.
+* [SHARK4R](https://github.com/sharksmhi/SHARK4R) - R package for queries towards the SHARK and Dyntaxa APIs.
+* [iRfcb](https://github.com/EuropeanIFCBGroup/iRfcb) - R package for processing data from the Imaging FlowCytobot (IFCB).
 
 ### <a name="molecular"></a>Molecular data
-* [ampliseq](https://github.com/nf-core/ampliseq) -
-Nextflow pipeline for 16S rRNA amplicon sequencing analysis using QIIME2.
-
-* [asvoccur](https://github.com/biodiversitydata-se/asvoccur) -
-R tools for ASV occurrence data in SBDI.
-
-* [coidb](https://github.com/biodiversitydata-se/coidb) -
-COI (mitochondrial cytochrome oxidase subunit I) sequences collected from the BOLD database.
-
-* [magmap](https://github.com/nf-core/magmap/) -
-Nextflow pipeline for quantification of metagenome assembled genomes (MAGs)
-
-* [mol-data](https://github.com/biodiversitydata-se/mol-data) -
-Source files for GitHub Pages on molecular data services provided by SBDI.
-
-* [mol-mod](https://github.com/biodiversitydata-se/mol-mod) -
-Module for handling sequence-based occurrence data in SBDI (ASV portal).
-
-* [proxy-ws-mol-mod-docker](https://github.com/biodiversitydata-se/proxy-ws-mol-mod-docker) -
-A dockerized NGINX reverse proxy for ASV portal.
-
-* [sbdi-days-eDNA](https://biodiversitydata-se.github.io/sbdi-days-eDNA) -
-Source files for SBDI Days 2026 eDNA workshop website and tutorial.
-
-* [sbdi-gtdb](https://github.com/biodiversitydata-se/sbdi-gtdb) - 
-SBDI Sativa curated 16S GTDB database.
-
-* [sbdi-phylomarkercheck](https://github.com/biodiversitydata-se/sbdi-phylomarkercheck) - 
-A pipeline that checks GTDB 16S sequences for phylogenetic signal with Sativa.
-
-* [taxon-build-test](https://github.com/biodiversitydata-se/taxon-build-test) - 
-Preprocessing and merging of GBIF taxonomy with GTDB, using Taxonomy builder.
-
-### <a name="sbdi-info"></a>SBDI information and discussion
+* [ampliseq](https://github.com/nf-core/ampliseq) - Nextflow pipeline for 16S rRNA amplicon sequencing analysis using QIIME2.
+* [asvoccur](https://github.com/biodiversitydata-se/asvoccur) - R tools for ASV occurrence data in SBDI.
+* [coidb](https://github.com/biodiversitydata-se/coidb) - COI (mitochondrial cytochrome oxidase subunit I) sequences collected from the BOLD database.
+* [magmap](https://github.com/nf-core/magmap/) - Nextflow pipeline for quantification of metagenome assembled genomes (MAGs).
+* [mol-data](https://github.com/biodiversitydata-se/mol-data) - Source files for GitHub Pages on molecular data services provided by SBDI.
+* [mol-mod](https://github.com/biodiversitydata-se/mol-mod) - Module for handling sequence-based occurrence data in SBDI (ASV portal).
+* [proxy-ws-mol-mod-docker](https://github.com/biodiversitydata-se/proxy-ws-mol-mod-docker) - A dockerized NGINX reverse proxy for ASV portal.
+* [sbdi-days-eDNA](https://biodiversitydata-se.github.io/sbdi-days-eDNA) - Source files for SBDI Days 2026 eDNA workshop website and tutorial.
+* [sbdi-gtdb](https://github.com/biodiversitydata-se/sbdi-gtdb) - SBDI Sativa curated 16S GTDB database.
+* [sbdi-phylomarkercheck](https://github.com/biodiversitydata-se/sbdi-phylomarkercheck) - A pipeline that checks GTDB 16S sequences for phylogenetic signal with Sativa.
+* [taxon-build-test](https://github.com/biodiversitydata-se/taxon-build-test) - Preprocessing and merging of GBIF taxonomy with GTDB, using Taxonomy builder.
 
 ### <a name="r"></a>R
-
-* [SBDI4R2](https://github.com/biodiversitydata-se/sbdi4r2) - 
-R functionality for the SBDI data portal.
-
-* [other R resources](https://github.com/biodiversitydata-se/r-functionality) 
-
-* [R tools tutorial](https://github.com/biodiversitydata-se/r-tools-tutorial) - tutorial for & demo of SBDI R tools
-  
-* [asvoccur](https://github.com/biodiversitydata-se/asvoccur) -
-R tools for ASV occurrence data in SBDI.
-
+* [SBDI4R2](https://github.com/biodiversitydata-se/sbdi4r2) - R functionality for the SBDI data portal.
+* [other R resources](https://github.com/biodiversitydata-se/r-functionality)
+* [R tools tutorial](https://github.com/biodiversitydata-se/r-tools-tutorial) - Tutorial for and demo of SBDI R tools.
+* [asvoccur](https://github.com/biodiversitydata-se/asvoccur) - R tools for ASV occurrence data in SBDI.
 * [mirroreum](https://github.com/biodiversitydata-se/mirroreum)
+* [sbdi-days-eDNA](https://biodiversitydata-se.github.io/sbdi-days-eDNA) - Source files for SBDI Days 2026 eDNA workshop website and tutorial.
 
 ### <a name="support"></a>Support
-
-* [sbdi-support](https://github.com/biodiversitydata-se/sbdi-support) - 
-Support issues from the support form and coming in other ways.
+* [sbdi-support](https://github.com/biodiversitydata-se/sbdi-support) - Support issues from the support form and coming in other ways.
 
 ### <a name="systematic"></a>Systematic monitoring
 * [ala-map-plugin](https://github.com/biodiversitydata-se/ala-map-plugin) - Utilities for creating and displaying geographic data for clients of the ecodata services.
-* [biocollect](https://github.com/biodiversitydata-se/biocollect) - Front-end for ecodata, enables entering and retrieving systematic monitoring data (occurences and sites) and managing projects. 
+* [biocollect](https://github.com/biodiversitydata-se/biocollect) - Front-end for ecodata, enables entering and retrieving systematic monitoring data (occurences and sites) and managing projects.
 * [ecodata](https://github.com/biodiversitydata-se/ecodata) - Primary data service for the Biocollect application.
 * [ecodata-client-plugin](https://github.com/biodiversitydata-se/ecodata-client-plugin) - Utilities and form rendering for clients of the ecodata services.
-
-
