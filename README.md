@@ -70,6 +70,7 @@ Internal and external SBDI repos can be loosely grouped into the following, non-
 
 ### <a name="courses"></a>Courses and workshops
 * [sbdi-days-eDNA](https://biodiversitydata-se.github.io/sbdi-days-eDNA) - Source files for SBDI Days 2026 eDNA workshop website and tutorial.
+* [sbdi-eDNA-biosyst-eu](https://biodiversitydata-se.github.io/sbdi-eDNA-biosyst-eu) - Source files for BioSyst.EU 2026 eDNA workshop website and tutorial.
 * [workshops](https://github.com/biodiversitydata-se/workshops) - Online material for SBDI courses.
 
 ### <a name="herbarium"></a>Herbarium data
@@ -93,6 +94,7 @@ Internal and external SBDI repos can be loosely grouped into the following, non-
 * [mol-mod](https://github.com/biodiversitydata-se/mol-mod) - Module for handling sequence-based occurrence data in SBDI (ASV portal).
 * [proxy-ws-mol-mod-docker](https://github.com/biodiversitydata-se/proxy-ws-mol-mod-docker) - A dockerized NGINX reverse proxy for ASV portal.
 * [sbdi-days-eDNA](https://biodiversitydata-se.github.io/sbdi-days-eDNA) - Source files for SBDI Days 2026 eDNA workshop website and tutorial.
+* [sbdi-eDNA-biosyst-eu](https://biodiversitydata-se.github.io/sbdi-eDNA-biosyst-eu) - Source files for BioSyst.EU 2026 eDNA workshop website and tutorial.
 * [sbdi-gtdb](https://github.com/biodiversitydata-se/sbdi-gtdb) - SBDI Sativa curated 16S GTDB database.
 * [sbdi-phylomarkercheck](https://github.com/biodiversitydata-se/sbdi-phylomarkercheck) - A pipeline that checks GTDB 16S sequences for phylogenetic signal with Sativa.
 * [taxon-build-test](https://github.com/biodiversitydata-se/taxon-build-test) - Preprocessing and merging of GBIF taxonomy with GTDB, using Taxonomy builder.
