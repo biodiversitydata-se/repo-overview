@@ -13,6 +13,7 @@ The following repos are hosted by SBDI consortium partners or external collabora
 * [magmap](https://github.com/nf-core/magmap/) - Nextflow pipeline for quantification of metagenome assembled genomes (MAGs).
 * [nordicmicroalgae](https://github.com/nordicmicroalgae/) - Nordic Microalgae - pipeline/content/backend/frontend.
 * [plankton-toolbox](https://github.com/planktontoolbox/plankton-toolbox) - Free tool for phyto- and zooplankton.
+* [scan-ingest](https://github.com/herbarium-gb/scan-ingest) - Ingest pipeline for herbarium sheets scanned in-house at Herbarium GB: QR identification, JP2 conversion, IIIF viewing and FileMaker records.
 * [SHARK4R](https://github.com/sharksmhi/SHARK4R) - R package for queries towards the SHARK and Dyntaxa APIs.
 
 ## Repos grouped by theme
@@ -76,6 +77,7 @@ Internal and external SBDI repos can be loosely grouped into the following, non-
 ### <a name="herbarium"></a>Herbarium data
 * [herbarium-data](https://github.com/herbarium-gb/herbarium-data) - Data processing workflows and tools for Herbarium GB collections.
 * [herbarium-platform](https://github.com/herbarium-gb/herbarium-platform) - Web platform and infrastructure for managing and publishing Herbarium GB collection data.
+* [scan-ingest](https://github.com/herbarium-gb/scan-ingest) - Ingest pipeline for herbarium sheets scanned in-house at Herbarium GB: QR identification, JP2 conversion, IIIF viewing and FileMaker records.
 
 ### <a name="marine"></a>Marine data
 * [koster_ml](https://github.com/ocean-data-factory-sweden/koster_ml) - Koster Seafloor Observatory: Object detection model for subsea imagery.
